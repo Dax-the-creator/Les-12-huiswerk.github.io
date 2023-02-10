@@ -1,0 +1,43 @@
+header {
+    background-color: #76b5c5;
+    width: 100%;
+    height: 150px;
+  }
+  #table {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+  }
+  #appel {
+    background-color: #df2d07;
+  }
+  #post {
+    background-color: #1fdf79;
+  }
+
+  #limoen {
+    background-color: #669f60;
+  }
+  #noot {
+    background-color: #a65353;
+  }
+
+  #kers {
+    background-color: #9ea811;
+  }
+  #maan {
+    background-color: #bb000094;
+  }
+
+  #peer {
+    background-color: #ea09ff;
+  }
+  #groen {
+    background-color: #2e1a7c;
+  }
+
+  footer {
+    background-color: #76b5c5;
+    width: 100%;
+    height: 150px;
+  }
